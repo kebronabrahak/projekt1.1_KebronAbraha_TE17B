@@ -1,0 +1,32 @@
+.many {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    font-size: 20px;
+    top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+a:hover:not(.many) {
+    background-color: blue;
+}

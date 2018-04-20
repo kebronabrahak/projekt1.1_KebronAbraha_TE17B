@@ -7,6 +7,14 @@
     top: 20px;
 }
 
+.bild {
+
+    float: left;
+    margin:5px 10px 5px 3px;
+    width: 290px;
+    height: 360px;
+}
+
 ul {
     list-style-type: none;
     margin: 0px;
